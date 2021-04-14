@@ -7,9 +7,9 @@ For the experiment, we used pre-trained torchvision.models.resnet34. However, it
 
 #### Files: 
 - ```FeatureMapActivator.py```: is used to activate the feature maps (filters) for given layer by doing forward pass.
-- ```FilterVisualizer.py```: is used make necessary computation to visualize the features for selected model
+- ```FilterVisualizer.py```: is used to make necessary computation to visualize the features for selected model
 - ```utils.py```: utility functions
-- ```experiments.ipynb```: contains experiment implemented
+- ```experiments.ipynb```: contains experiment we conducted
 
 #### How to run:
 ```
