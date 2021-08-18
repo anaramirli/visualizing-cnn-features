@@ -9,7 +9,7 @@ In the first stage, a feature map for different layers has been constructed. The
 
 For the experiment, we used pre-trained torchvision.models.resnet34. However, it can easily be extended to the other models. For more detail, please check out the code and the paper.
 
-note: this work has been made as an more compact imporovment on [fg91/visualizing-cnn-feature-maps](https://github.com/fg91/visualizing-cnn-feature-maps).
+**note: this work has been made as an more compact imporovment on [fg91/visualizing-cnn-feature-maps](https://github.com/fg91/visualizing-cnn-feature-maps).
 
 #### Files: 
 - ```FeatureMapActivator.py```: is used to activate the feature maps (filters) for given layer by doing forward pass.
